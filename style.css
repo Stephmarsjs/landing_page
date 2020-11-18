@@ -5,13 +5,13 @@
     text-align: center;
 }
 
-.column {
+.row {
     float: left;
     width: 550px;
     background-color: teal ;
 }
 
-.column-2 {
+.row-2 {
     float: right;
     width: 550px;
     background-color: tomato;
